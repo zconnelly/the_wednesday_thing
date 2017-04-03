@@ -14,17 +14,17 @@ The Wednesday Thing
 ### Past Talks
 
 1. Wednesday, March 8th - Zac - Poor Man's Siri
-  - Github Repo - [https://github.com/zconnelly/the_wednesday_thing_siri](https://github.com/zconnelly/the_wednesday_thing_siri)
+    - Github Repo - [https://github.com/zconnelly/the_wednesday_thing_siri](https://github.com/zconnelly/the_wednesday_thing_siri)
 
 2. Wednesday, March 15th - Guido - Design Thinking (a primer)
 
 3. Wednesday, March 22nd - Zac - Git?
-  - [https://github.com/zconnelly/roses_are_red](https://github.com/zconnelly/roses_are_red)
-  - https://try.github.io/levels/1/challenges/1
+    - [https://github.com/zconnelly/roses_are_red](https://github.com/zconnelly/roses_are_red)
+    - https://try.github.io/levels/1/challenges/1
 
 4. Wednesday, March 29th - Max S., Guido, Zac - Three lightning talks on Chrome Dev Tools, Drawing, and Regex Crosswords (respectively)
-  - Regex cheat sheet [http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png](http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png)
-  - Regex crosswords [https://regexcrossword.com](https://regexcrossword.com)
+    - Regex cheat sheet [http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png](http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png)
+    - Regex crosswords [https://regexcrossword.com](https://regexcrossword.com)
 
 ### Poster Gallery
 
