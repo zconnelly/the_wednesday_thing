@@ -28,10 +28,10 @@ The Wednesday Thing
 
 ### Poster Gallery
 
-![Git?](https://files.slack.com/files-pri/T03GQPQ5G-F4NHH790E/thewednesdaything3.png)
+![Git?](http://i.imgur.com/ckrlB0e.png)
 
-![Design Thinking](https://files.slack.com/files-pri/T03GQPQ5G-F4JHQN7D0/screenshot_2017-03-15_10.45.34.png)
+![Design Thinking](http://i.imgur.com/5qVDBV7.jpg)
 
-![How to be Creative with Code](https://files.slack.com/files-pri/T03GQPQ5G-F4FB2MRC4/thewednesdaything_updated.png)
+![How to be Creative with Code](http://i.imgur.com/gcfkVyl.png)
 
 
