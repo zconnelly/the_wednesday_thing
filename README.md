@@ -3,7 +3,7 @@ The Wednesday Thing
 
 ### Upcoming
 
-1. Wednesday, April 5th - Max H. - **Personal Data Security**
+1. Wednesday, April 5th - Max H. - **Digital Security**
 
 2. Wednesday, April 12th - Julia - **Designing for Data Privacy**
 
@@ -27,6 +27,8 @@ The Wednesday Thing
     - Regex crosswords [https://regexcrossword.com](https://regexcrossword.com)
 
 ### Poster Gallery
+
+![Digital Security](http://i.imgur.com/IdZ7zFE.png)
 
 ![Git?](http://i.imgur.com/ckrlB0e.png)
 
