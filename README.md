@@ -5,7 +5,7 @@ The Wednesday Thing
 
 1. Wednesday, April 5th - Max H. - **Personal Data Security**
 
-2. Wednesday, April 12th - Julia - **Designing for Data Security**
+2. Wednesday, April 12th - Julia - **Designing for Data Privacy**
 
 3. Wednesday, April 19th - Zac - **Mimibot**
 
