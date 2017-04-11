@@ -3,9 +3,9 @@ The Wednesday Thing
 
 ### Upcoming
 
-1. Wednesday, April 12th - Julia - **Data Privacy & Our Digital Futures*
+1. Wednesday, April 12th - Julia - **Data Privacy & Our Digital Futures**
 
-2. Wednesday, April 19th - Zac - **Mimibot*
+2. Wednesday, April 19th - Zac - **Mimibot**
 
 3. Wednesday, April 26th - Sarah - **Singing Lessons**
 
