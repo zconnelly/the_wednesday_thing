@@ -29,9 +29,13 @@ The Wednesday Thing
 
 ### Poster Gallery
 
+<video autoplay loop>
+    <source src="http://i.imgur.com/N0t3Rlp.mp4" type="video/mp4">
+</video>
+    
 ![Data Privacy & Our Digital Futures](http://imgur.com/N0t3Rlp)
 
-![Digital Security](http://imgur.com/fLC5PaP)
+![Digital Security](http://i.imgur.com/fLC5PaP.png)
 
 ![Git?](http://i.imgur.com/ckrlB0e.png)
 
