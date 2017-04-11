@@ -25,6 +25,7 @@ The Wednesday Thing
     - Regex crosswords [https://regexcrossword.com](https://regexcrossword.com)
 
 5. Wednesday, April 5th - Max H. - Personal Data Security
+    - Keynote [https://gomimi.slack.com/files/max-heim/F4Y5CBRST/digital_security.key](https://gomimi.slack.com/files/max-heim/F4Y5CBRST/digital_security.key)
 
 ### Poster Gallery
 
