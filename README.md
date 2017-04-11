@@ -3,13 +3,11 @@ The Wednesday Thing
 
 ### Upcoming
 
-1. Wednesday, April 5th - Max H. - Personal Data Security
+1. Wednesday, April 12th - Julia - Data Privacy & Our Digital Futures
 
-2. Wednesday, April 12th - Julia - Designing for Data Security
+2. Wednesday, April 19th - Zac - Mimibot
 
-3. Wednesday, April 19th - Zac - Mimibot
-
-4. Wednesday, April 26th - Sarah - Singing Lessons
+3. Wednesday, April 26th - Sarah - Singing Lessons
 
 ### Past Talks
 
@@ -26,12 +24,16 @@ The Wednesday Thing
     - Regex cheat sheet [http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png](http://ult-tex.net/info/perl/regular_expressions_cheat_sheet.png)
     - Regex crosswords [https://regexcrossword.com](https://regexcrossword.com)
 
+5. Wednesday, April 5th - Max H. - Personal Data Security
+
 ### Poster Gallery
+
+![Data Privacy & Our Digital Futures](http://imgur.com/N0t3Rlp)
+
+![Digital Security](http://imgur.com/fLC5PaP)
 
 ![Git?](http://i.imgur.com/ckrlB0e.png)
 
 ![Design Thinking](http://i.imgur.com/5qVDBV7.jpg)
 
 ![How to be Creative with Code](http://i.imgur.com/gcfkVyl.png)
-
-
